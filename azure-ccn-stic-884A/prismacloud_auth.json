@@ -1,8 +1,8 @@
 {
     "url": "api.eu.prismacloud.io",
-    "username": "ac8fac61-5f4d-47c7-9281-cbc13b672828",
-    "password": "Au3csw4joIkDuGQDGoPT8NT/FYA=",
-    "prismaid": "806755658632356864",
+    "username": "xxxx", # Access_Key
+    "password": "xxxx", # Secret_Key
+    "prismaid": "xxxx", # Prisma_ID
     "protocol": "https"
 
     }
