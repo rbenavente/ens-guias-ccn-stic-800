@@ -1,0 +1,10 @@
+Para desplegar las politicas especifidas primero es necesario actualizar el fichero "prismacloud_auth.json con las credenciales  y el prisma¡d correspondiente y despues despleagar toods las plantillas mediande:
+
+terraform init
+terraform plan
+terrafomr apply
+
+
+Para desprovisionar las plantillas:
+
+terraform destroy
